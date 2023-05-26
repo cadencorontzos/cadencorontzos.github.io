@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Caden. I am a Software Engineer.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I live in California. My hobbies include reading, video games, and coding. I am a neovim/tmux enthusiast, and I am always interest in ways to make my workflow more efficient.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I studied Computer Science at Reed College. My senior thesis was focused on DNA compression. To see this project and others, check out my [github](https://github.com/cadencorontzos).
